@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is my text file.
 My name is soumya Keshri pursuing B.Tech CSE from UPES Dehradun.
 =======
 >>>>>>> parent of 0615746 (Second commit)
 jkdejd
+=======
+This is my text file.
+>>>>>>> parent of 4268b87 (Move to branch Soumya)
